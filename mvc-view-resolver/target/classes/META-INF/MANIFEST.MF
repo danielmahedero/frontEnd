@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: mvc-view-resolver
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: DanielM
+Implementation-Vendor-Id: course
+Build-Jdk: 1.8.0_151
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/spring-mvc/mvc-view-resolver
+Created-By: Maven Integration for Eclipse
+

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="controller" />
+        <module name="controller-advice" />
+        <module name="controller-advice-error-handling" />
+        <module name="controllers" />
+        <module name="converters" />
+        <module name="converters-arguments-resolvers" />
+        <module name="converters-resolvers" />
+        <module name="converters-resolvers-binders" />
+        <module name="demo" />
+        <module name="interceptors" />
+        <module name="mvc-configurer" />
+        <module name="mvc-model" />
+        <module name="mvc-view-resolver" />
+        <module name="springsecurity" />
+        <module name="thymeleaf" />
+        <module name="thymeleaf3-template-modes-example" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="binder" target="1.8" />
+      <module name="controller" target="1.8" />
+      <module name="controller-advice" target="1.8" />
+      <module name="controller-advice-error-handling" target="1.8" />
+      <module name="controllers" target="1.8" />
+      <module name="converters" target="1.8" />
+      <module name="converters-arguments-resolvers" target="1.8" />
+      <module name="converters-resolvers" target="1.8" />
+      <module name="converters-resolvers-binders" target="1.8" />
+      <module name="demo" target="1.8" />
+      <module name="error-handling" target="1.8" />
+      <module name="interceptors" target="1.8" />
+      <module name="jsp" target="1.8" />
+      <module name="mvc-configurer" target="1.8" />
+      <module name="mvc-model" target="1.8" />
+      <module name="mvc-view-resolver" target="1.8" />
+      <module name="spring-mvc" target="1.8" />
+      <module name="springsecurity" target="1.5" />
+      <module name="thymeleaf" target="1.8" />
+      <module name="thymeleaf3-template-modes-example" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

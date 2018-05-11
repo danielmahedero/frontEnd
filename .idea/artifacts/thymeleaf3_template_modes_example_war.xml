@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="thymeleaf3-template-modes-example:war">
+    <output-path>$PROJECT_DIR$/../thymeleaf3-template-modes-example/target</output-path>
+    <root id="archive" name="thymeleaf3-template-modes-example.war">
+      <element id="artifact" artifact-name="thymeleaf3-template-modes-example:war exploded" />
+    </root>
+  </artifact>
+</component>

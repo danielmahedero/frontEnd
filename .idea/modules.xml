@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/controller-advice-error-handling/controller-advice-error-handling.iml" filepath="$PROJECT_DIR$/controller-advice-error-handling/controller-advice-error-handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/controllers/controllers.iml" filepath="$PROJECT_DIR$/controllers/controllers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/converters-resolvers-binders/converters-resolvers-binders.iml" filepath="$PROJECT_DIR$/converters-resolvers-binders/converters-resolvers-binders.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../demo/demo.iml" filepath="$PROJECT_DIR$/../demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interceptors/interceptors.iml" filepath="$PROJECT_DIR$/interceptors/interceptors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvc-configurer/mvc-configurer.iml" filepath="$PROJECT_DIR$/mvc-configurer/mvc-configurer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvc-model/mvc-model.iml" filepath="$PROJECT_DIR$/mvc-model/mvc-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvc-view-resolver/mvc-view-resolver.iml" filepath="$PROJECT_DIR$/mvc-view-resolver/mvc-view-resolver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-mvc.iml" filepath="$PROJECT_DIR$/spring-mvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../thymeleafexamples-springsecurity/springsecurity.iml" filepath="$PROJECT_DIR$/../thymeleafexamples-springsecurity/springsecurity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thymeleaf/thymeleaf.iml" filepath="$PROJECT_DIR$/thymeleaf/thymeleaf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../thymeleaf3-template-modes-example/thymeleaf3-template-modes-example.iml" filepath="$PROJECT_DIR$/../thymeleaf3-template-modes-example/thymeleaf3-template-modes-example.iml" />
+    </modules>
+  </component>
+</project>

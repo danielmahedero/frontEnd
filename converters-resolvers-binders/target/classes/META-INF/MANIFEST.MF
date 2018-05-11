@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: converters-resolvers-binders
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: DanielM
+Implementation-Vendor-Id: course
+Build-Jdk: 1.8.0_151
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/spring-mvc/converters-resolvers-binders
+Created-By: Maven Integration for Eclipse
+

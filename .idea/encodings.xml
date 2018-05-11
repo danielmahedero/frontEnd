@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/controller-advice-error-handling" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/controllers" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/converters-resolvers-binders" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/interceptors" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jsp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mvc-configurer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mvc-model" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mvc-view-resolver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/thymeleaf" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/thymeleaf/src/main/resources/forms/css" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/thymeleaf/src/main/resources/forms/form1.html" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/thymeleaf/src/main/resources/forms/view1.html" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/../demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../thymeleaf3-template-modes-example" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../thymeleafexamples-springsecurity" charset="ISO-8859-1" />
+  </component>
+</project>

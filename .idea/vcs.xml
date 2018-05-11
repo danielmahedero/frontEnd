@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../thymeleaf3-template-modes-example" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../thymeleafexamples-springsecurity" vcs="Git" />
+  </component>
+</project>
